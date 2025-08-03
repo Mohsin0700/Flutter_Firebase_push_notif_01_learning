@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532683508259",
+    "project_id": "mi-counter-app",
+    "storage_bucket": "mi-counter-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532683508259:android:79df14724b2f097daeff96",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY0DYhU66Yh-LP_xlCuFSqvDRDDeCD7gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
